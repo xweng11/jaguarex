@@ -39,7 +39,7 @@
 
 @media screen and (max-device-width : 480px) {
    .contenedor {
-    display: none;
+    width:30%;
 }
 
 }
