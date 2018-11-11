@@ -37,8 +37,9 @@
     border: 0 solid #E11C1C;
 }
 
-@media (min-width: 768px){
+@media (min-width: 480px){
    .contenedor {
     margin: 20px;
+	width: 50%;
 }
 }
