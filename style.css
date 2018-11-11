@@ -37,7 +37,7 @@
     border: 0 solid #E11C1C;
 }
 
-@media screen and (max-device-width : 480px) {
+/*@media screen and (max-device-width : 480px) {
    .contenedor {
     	top: 60px;
 	left: 50px;
@@ -56,3 +56,4 @@
 }
 
 }
+*/
