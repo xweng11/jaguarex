@@ -39,7 +39,20 @@
 
 @media screen and (max-device-width : 480px) {
    .contenedor {
-    /*width:100%;*/
+    	top: 60px;
+	left: 50px;
+        position: absolute;
+        font-family: 'Roboto', sans-serif; 
+        line-height: 1.6; 
+        text-align: justify;
+	padding-top: 10px;
+	padding-bottom: 30px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-radius: 6px;
+	max-width: 600px;
+	color: white;
+	background-color: rgba(6, 0, 0, 0.7);
 }
 
 }
