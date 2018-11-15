@@ -49,13 +49,13 @@ overflow: hidden;
    .contenedor {
     margin-right: 50px;
 }
-.image {
+/*.image {
     background:no-repeat;
     background-size: contain;
     position: absolute;
     width: auto;
     height: auto;
-}
+}*/
 
 }
 
