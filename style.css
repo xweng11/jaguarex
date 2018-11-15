@@ -50,9 +50,8 @@ overflow: hidden;
     margin-right: 50px;
 }
 .image {
-/*    background:no-repeat;
     background-size: contain;
-    position: absolute;*/
+    position: absolute;
     width: auto;
     height: auto;
 }
